@@ -1,0 +1,17 @@
+body {
+  padding: 5px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: gray;
+}
+
+a {
+  color: white;
+}
+
+li:hover {
+  color: white;
+}
+
+button {
+  background: gray;
+}
